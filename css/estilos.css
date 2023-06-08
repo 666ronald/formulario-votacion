@@ -1,0 +1,52 @@
+.form-div {
+    display: flex;
+    align-items: left;
+    margin-bottom: 5px;
+}
+
+.form-label {
+    width: 100%;
+    text-align: left;
+    margin-right: 30px;
+}
+
+.form-input {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+#form-votacion {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    width: 20%;
+    padding: 30px;
+}
+
+.alert-danger {
+    color: #300a00;
+    background-color: #d16166;
+    border-color: #531100;
+    width: 20%;
+    padding: 30px;
+}
